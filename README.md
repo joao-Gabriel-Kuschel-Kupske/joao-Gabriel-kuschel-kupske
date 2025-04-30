@@ -1,4 +1,10 @@
 ## Hi there 👋
+Me chamo João Gabriel Kuschel Kupske.
+Tenho 14 anos de idade. 
+Moro no Brasil no estado do Rio Grande do Sul em Roque Gonzales .
+🌱 No momento, estou aprendendo... C e C++ para competições .
+💬 Pergunte-me sobre... Historia , um pouco de programação busco ajudar o mazimo possivel . 
+Faço parte do JTT da fundação Behring . 
 
 <!--
 **joao-Gabriel-Kuschel-Kupske/joao-Gabriel-kuschel-kupske** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

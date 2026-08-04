@@ -36,6 +36,7 @@
 ### 💬 Let's Connect & Talk About
 
 - 📜 **History**: Historical facts, world events, and deep dives.
+- 📐 **Mathematics**: Logic, problem-solving, and competition math.
 - 💻 **Programming**: Fundamentals, competitive coding logic, and algorithms.
 - 🤝 **Community**: Assisting fellow young tech enthusiasts and sharing learning resources.
 

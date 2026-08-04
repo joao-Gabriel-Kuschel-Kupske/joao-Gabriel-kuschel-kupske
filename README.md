@@ -16,6 +16,14 @@
 
 ---
 
+### 🌐 Connect with Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaogabrielk2000/)
+[![Neps Academy](https://img.shields.io/badge/Neps_Academy-2563EB?style=for-the-badge&logo=codeforces&logoColor=white)](https://neps.academy/br/user/39321)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:k2joaogabriel@gmail.com)
+
+---
+
 ### 🛠️ Tech Stack & Skills
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
@@ -34,17 +42,3 @@
 ---
 
 📫 *Feel free to check out my repositories or reach out!*
-<!--
-**joao-Gabriel-Kuschel-Kupske/joao-Gabriel-kuschel-kupske** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
